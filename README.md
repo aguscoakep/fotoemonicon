@@ -1,0 +1,2 @@
+# fotoemonicon
+foto detek emoticon
